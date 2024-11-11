@@ -8,6 +8,8 @@ This readme file will keep a record for me like what are the things that are rem
 6). all types of solution to synchronization like atomic Integer, locks, mutex , semaphores , synchronized blocks and synchronized methods. 
 7). threads methods like sleep, yield , notify, isAlive, getName, setPriority, getPriority.
 8). Concurrent DataStructures like LinkedHashMap
+9). DeadLocks
+10).join method on threads
 
 
 Done till now...
