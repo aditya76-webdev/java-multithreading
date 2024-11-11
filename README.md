@@ -7,6 +7,7 @@ This readme file will keep a record for me like what are the things that are rem
 5). producer consumer problem and its soultion using synchronized, mutex , locks and atomic data types and semaphores. 
 6). all types of solution to synchronization like atomic Integer, locks, mutex , semaphores , synchronized blocks and synchronized methods. 
 7). threads methods like sleep, yield , notify, isAlive, getName, setPriority, getPriority.
+8). Concurrent DataStructures like LinkedHashMap
 
 
 Done till now...
